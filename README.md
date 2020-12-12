@@ -4,7 +4,7 @@ Citation Network Analysis
 This is a java program taht can find most relevant papaers to papers found by searching for a keyword in a large json file containing papares information.
 
 ## Requirements
-- Use **Jackson* Streaming API* for reading the large json file.
+- Use **Jackson Streaming API** for reading the large json file.
 
 - Use **Maven** for including Jackson.
 
