@@ -1,0 +1,105 @@
+------------------------------------------------------------------------
+Building mavenproject1 1.0-SNAPSHOT
+------------------------------------------------------------------------
+
+--- exec-maven-plugin:1.5.0:exec (default-cli) @ mavenproject1 ---
+Document{
+  documentId='100001334'
+, title='Ontologies in HYDRA - Middleware for Ambient Intelligent Devices.'
+, authors='[{name='Peter Kostelnik', id='2702511795', org=''},{name='Martin Sarnovsky', id='2041014688', org=''},{name='Jan Hreno', id='2398560122', org=''},]'
+, n_citation='2'
+, refrences='null'}
+~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.
+
+Document{
+  documentId='1000018889'
+, title='Remote Policy Enforcement for Trusted Application Execution in Mobile Environments'
+, authors='[{name='Fabio Martinelli', id='2107438709', org='Istituto di Informatica e Telematica, Consiglio Nazionale delle Ricerche, Pisa, Italy#TAB#'},{name='Ilaria Matteucci', id='2311169168', org='Istituto di Informatica e Telematica, Consiglio Nazionale delle Ricerche, Pisa, Italy#TAB#'},{name='Andrea Saracino', id='2140477378', org='Dipartimento di Ingegneria dell'Informazione, Universit di Pisa, Pisa, Italy and Istituto di Informatica e Telematica, Consiglio Nazionale delle Ricerche, Pisa, Italy#TAB#'},{name='Daniele Sgandurra', id='252575161', org='Istituto di Informatica e Telematica, Consiglio Nazionale delle Ricerche, Pisa, Italy#TAB#'},]'
+, n_citation='2'
+, refrences='[94181602, 1504669610, 1542792105, 1639158619, 1966825932, 2050529434, 2055456945, 2084871158, 2140911579, 2141935522, 2145187482, 2408322241]'}
+~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.
+
+Document{
+  documentId='1000022707'
+, title='A SIMPLE OBSERVATION REGARDING ITERATIONS OF FINITE-VALUED POLYNOMIAL-TIME FUNCTIONS'
+, authors='[{name='Jerzy Mycka', id='263067851', org=''},]'
+, n_citation='0'
+, refrences='[1972178849, 2069792094, 100001334]'}
+~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.
+
+Document{
+  documentId='100004108'
+, title='Gait based human identity recognition from multi-view surveillance videos'
+, authors='[{name='Emdad Hossain', id='2017661848', org='Faculty of Information Science and Engineering, University of Canberra, Australia#TAB#'},{name='Girija Chetty', id='2112932526', org='Faculty of Information Science and Engineering, University of Canberra, Australia#TAB#'},]'
+, n_citation='0'
+, refrences='[1578000111, 2120433720, 2136461127, 2138931357, 2142096206, 2146566773, 2158275940, 2169403998, 2171596602, 1000022707]'}
+~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.
+
+Document{
+  documentId='10000571'
+, title='The GAME Algorithm Applied to Complex Fractionated Atrial Electrograms Data Set'
+, authors='[{name='Pavel Kordík', id='419063071', org='Department of Computer Science and Engineering, FEE, Czech Technical University, Prague, Czech Republic#TAB#'},{name='Václav K?emen', id='1601518244', org='Department of Cybernetics, FEE, Czech Technical University, Prague, Czech Republic#TAB#'},{name='Lenka Lhotska', id='195441492', org='Department of Cybernetics, FEE, Czech Technical University, Prague, Czech Republic#TAB#'},]'
+, n_citation='5'
+, refrences='[1000022707, 291899685, 1964166287, 2135293965, 2146842127, 2150913357, 2151572298, 2293714037]'}
+~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.
+
+Document{
+  documentId='100007563'
+, title='Formal Verification of a Simple Automated Negotiation Protocol.'
+, authors='[{name='George Dimitoglou', id='2057266651', org='Hood College'},{name='Okan Duzyol', id='2399396772', org=''},{name='Lawrence N. Owusu', id='2713389301', org=''},]'
+, n_citation='1'
+, refrences='[1578963809, 1612191182, 1964167056, 2078435329, 2089064860, 2115309705]'}
+~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.
+
+Document{
+  documentId='100008278'
+, title='EMOTIONAL AND RATIONAL COMPONENTS OF IS SERVICE SATISFACTION AND THEIR IMPACT ON IS SERVICE CONTINUANCE'
+, authors='[{name='Colin Gabriel Onita', id='1965742505', org=''},{name='Jasbir Singh Dhaliwal', id='2678998092', org=''},]'
+, n_citation='2'
+, refrences='[116282327, 1496783311, 1565838829, 1570850622, 1585650195, 1595575146, 1721421031, 1972013208, 1976893898, 1984588326, 2023407407, 2057012437, 2109300390, 2110506823, 2127455238, 2139808242, 2155225996, 2160123621]'}
+~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.
+
+Document{
+  documentId='100008490'
+, title='Principle-Based Parsing and Type Inference.'
+, authors='[{name='Sandiway Fong', id='2260246652', org=''},]'
+, n_citation='3'
+, refrences='null'}
+~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.
+
+Document{
+  documentId='100008599'
+, title='Methodology and resources for the structural segmentation of music pieces into autonomous and comparable blocks'
+, authors='[{name='Frédéric Bimbot', id='737579779', org=''},{name='Emmanuel Deruty', id='344114470', org=''},{name='Gabriel Sargent', id='2097342183', org=''},{name='Emmanuel Vincent', id='2186238986', org=''},]'
+, n_citation='10'
+, refrences='[1546801087, 1575951498, 2032085270, 2123991323, 2150914223, 2293915843, 2294938120, 2337373014, 2407544556]'}
+~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.
+
+Document{
+  documentId='100008749'
+, title='Predictability in Real-time System Development (1) Semantics Support from Development Languages .'
+, authors='[{name='Jinfeng Huang', id='2116595219', org=''},{name='Jeroen Voeten', id='2001247965', org=''},{name='Andre Ventevogel', id='2056150360', org=''},]'
+, n_citation='2'
+, refrences='[23142202, 1483005138, 1485432887, 1503973138, 1529145063, 1582068322, 1587275578, 1679137471, 1774201030, 2096903155, 2099184371, 2103222795, 2108204150]'}
+~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.
+
+Total Records Found : 10
+Documents with keyword for : [100001334, 1000018889, 100007563, 100008599]
+______________________________
+Tier-1 : 
+1000022707 : [100001334]
+
+______________________________
+Tier-2 : 
+100004108 : [1000022707]
+
+10000571 : [1000022707]
+
+______________________________
+------------------------------------------------------------------------
+BUILD SUCCESS
+------------------------------------------------------------------------
+Total time: 2.048 s
+Finished at: 2020-12-11T16:43:43+03:30
+Final Memory: 7M/155M
+------------------------------------------------------------------------
